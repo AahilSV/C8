@@ -1,2 +1,1 @@
-# C8
-C8
+# PRO-C68-Template
